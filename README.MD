@@ -46,9 +46,6 @@ The license is MIT standard license.
     
 It is an open project and everyone can contribute - please send an email requesting to be added as a contributor
 
-## Link to the App
-<a href="https://annisapf.github.io/Credit-Card-React/">Link to the credit card</a>
-     
 ## Questions
     
 If you have any questions about the repo, open an issue or contact [annisapf](https://github.com/annisapf/) directly at a.purbandari@gmail.com.
