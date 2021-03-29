@@ -1,0 +1,49 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    background: linear-gradient(#E6EBE0, #9BC1BC);
+    padding: 0;
+  }
+
+  .credit-card-box {
+  margin: 200px auto 30px;
+  position: relative;
+  width: 460px;
+  background: #fff;
+  border-radius: 15px;
+  padding: 160px 45px 340px;
+  }
+
+  
+  .credit-card-form {
+    perspective: 1000;
+    width: 400px;
+    height: auto;
+    position: absolute;
+    top: -180px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  form {
+    margin: 30px auto 0;
+    max-width: 400px;
+  }
+  
+  .form-actions {
+    margin-top: 15px;
+  }
+
+  .card-label {
+    text-align: left;
+  }
+  .card-cvc {
+    right:17%;
+  }
+
+  .form-check {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
